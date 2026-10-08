@@ -1,0 +1,9 @@
+
+USE
+
+select count (*) as
+TOTALREGISTROS
+FROM PRODUCTOS
+
+
+
