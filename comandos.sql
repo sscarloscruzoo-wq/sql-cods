@@ -1,5 +1,7 @@
-CREAR BASE DE DATOS
+CREAR BASE DE DATOS:
 
+LA BASE DE DATOS ES EJERCICIO 1, CONTIENE 5 ARCHIVOS CSV
+  
 CREATE DATABABASE [NOMBRE_DE_LA_BASE_DE_DATOS];
 GO
 
@@ -7,6 +9,28 @@ Después de crear una base de datos utilizamos el use para ingresar y trabajar c
 
 USE institucion;
 GO  -- Le dices a SQL Server: "Entra a la base de datos AHORA MISMO"
+
+
+---CONSULTA BASICA
+SE SELECCIOAN EL NOMBRE DEL ARCHIVO CVS DE DONDE SE DESEA OBTENER LA CONSULTA
+SELECT * FROM BaseDeDatos;
+SELECT * FROM ArchivoCSV;
+
+
+Filtrar por ciudad: Muestra el nombre, apellido y correo de los clientes que vivan en la ciudad de
+SELECT nombre, apellido, correo 
+FROM Cliente 
+WHERE ciudad = 'Lima';
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------------------------------------
 MOFIDICAR TABLA
