@@ -1,0 +1,61 @@
+﻿idCliente,nombre,apellido,ciudad,correo,fechaRegistro
+1,José,Vargas,Tacna,cliente001@correo.pe,2025-06-08
+2,Valeria,Salazar,Lima,cliente002@correo.pe,2026-11-15
+3,Andrés,Pérez,Cusco,cliente003@correo.pe,2024-04-22
+4,Camila,Flores,Arequipa,cliente004@correo.pe,2025-09-02
+5,Raúl,Ramírez,Trujillo,cliente005@correo.pe,2026-02-09
+6,Patricia,Torres,Piura,cliente006@correo.pe,2024-07-16
+7,Daniel,García,Huancayo,cliente007@correo.pe,2025-12-23
+8,Ana,Quispe,Tacna,cliente008@correo.pe,2026-05-03
+9,Luis,Mendoza,Lima,cliente009@correo.pe,2024-10-10
+10,María,Rojas,Cusco,cliente010@correo.pe,2025-03-17
+11,Pedro,Vargas,Arequipa,cliente011@correo.pe,2026-08-24
+12,Lucía,Salazar,Trujillo,cliente012@correo.pe,2024-01-04
+13,  Carlos  ,Pérez,Piura,cliente013@correo.pe,2025-06-11
+14,Elena,Flores,Huancayo,cliente014@correo.pe,2026-11-18
+15,Jorge,Ramírez,Tacna,cliente015@correo.pe,2024-04-25
+16,Rosa,Torres,Lima,cliente016@correo.pe,2025-09-05
+17,Diego,García, Cusco ,cliente017@correo.pe,2026-02-12
+18,Sofía,Quispe,Arequipa,cliente018@correo.pe,2024-07-19
+19,Miguel,Mendoza,Trujillo,cliente019@correo.pe,2025-12-26
+20,Paola,Rojas,Piura,cliente020@correo.pe,2026-05-06
+21,José,Vargas,Huancayo,cliente021@correo.pe,2024-10-13
+22,Valeria,Salazar,Tacna,cliente022@correo.pe,2025-03-20
+23,Andrés,Pérez,Lima,cliente023@correo.pe,2026-08-27
+24,Camila,Flores,Cusco,cliente024@correo.pe,2024-01-07
+25,Raúl,Ramírez,Arequipa,cliente025@correo.pe,2025-06-14
+26,  Patricia  ,Torres,Trujillo,cliente026@correo.pe,2026-11-21
+27,Daniel,García,Piura,cliente027@correo.pe,2024-04-01
+28,Ana,Quispe,Huancayo,cliente028@correo.pe,2025-09-08
+29,Luis,Mendoza,Tacna,cliente029@correo.pe,2026-02-15
+30,María,Rojas,Lima,cliente030@correo.pe,2024-07-22
+31,Pedro,Vargas,Cusco,cliente031@correo.pe,2025-12-02
+32,Lucía,Salazar,Arequipa,cliente032@correo.pe,2026-05-09
+33,Carlos,Pérez,Trujillo,cliente033@correo.pe,2024-10-16
+34,Elena,Flores, Piura ,cliente034@correo.pe,2025-03-23
+35,Jorge,Ramírez,Huancayo,cliente035@correo.pe,2026-08-03
+36,Rosa,Torres,Tacna,cliente036@correo.pe,2024-01-10
+37,Diego,García,Lima,cliente037@correo.pe,2025-06-17
+38,Sofía,Quispe,Cusco,cliente038@correo.pe,2026-11-24
+39,  Miguel  ,Mendoza,Arequipa,cliente039@correo.pe,2024-04-04
+40,Paola,Rojas,Trujillo,cliente040@correo.pe,2025-09-11
+41,José,Vargas,Piura,cliente041@correo.pe,2026-02-18
+42,Valeria,Salazar,Huancayo,cliente042@correo.pe,2024-07-25
+43,Andrés,Pérez,Tacna,cliente043@correo.pe,2025-12-05
+44,Camila,Flores,Lima,cliente044@correo.pe,2026-05-12
+45,Raúl,Ramírez,Cusco,cliente045@correo.pe,2024-10-19
+46,Patricia,Torres,Arequipa,cliente046@correo.pe,2025-03-26
+47,Daniel,García,Trujillo,cliente047@correo.pe,2026-08-06
+48,Ana,Quispe,Piura,cliente048@correo.pe,2024-01-13
+49,Luis,Mendoza,Huancayo,cliente049@correo.pe,2025-06-20
+50,María,Rojas,Tacna,cliente050@correo.pe,2026-11-27
+51,Pedro,Vargas, Lima ,cliente051@correo.pe,2024-04-07
+52,  Lucía  ,Salazar,Cusco,cliente052@correo.pe,2025-09-14
+53,Carlos,Pérez,Arequipa,cliente053@correo.pe,2026-02-21
+54,Elena,Flores,Trujillo,cliente054@correo.pe,2024-07-01
+55,Jorge,Ramírez,Piura,cliente055@correo.pe,2025-12-08
+56,Rosa,Torres,Huancayo,cliente056@correo.pe,2026-05-15
+57,Diego,García,Tacna,cliente057@correo.pe,2024-10-22
+58,Sofía,Quispe,Lima,cliente058@correo.pe,2025-03-02
+59,Miguel,Mendoza,Cusco,cliente059@correo.pe,2026-08-09
+60,Paola,Rojas,Arequipa,cliente060@correo.pe,2024-01-16
